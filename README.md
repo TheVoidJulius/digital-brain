@@ -166,6 +166,10 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 5. Open a Pull Request
 
 
+
+
+to preview the project - 
+https://digitalbrainxoxo.netlify.app/
 ---
 
 ## 🙋 Author
